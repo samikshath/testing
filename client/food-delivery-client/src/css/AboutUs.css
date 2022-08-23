@@ -1,0 +1,15 @@
+.myAboutUs{
+   
+    border-radius:15px ;
+    background-image: url('../images/aboutus.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5%;
+}
+
+.myAboutUs>p{
+   font-family: Arial, Helvetica, sans-serif;
+   justify-content: space-around;
+   font-size: 26px;
+   color: cornsilk;
+}

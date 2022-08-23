@@ -1,0 +1,14 @@
+.userProfileDiv{
+    /* margin-top: 100px; */
+    padding: 40px;
+    background-color: azure;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: url("../images/profile-bg.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.table-props>td{
+   height: 20px;
+}

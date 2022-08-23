@@ -1,0 +1,21 @@
+.row{
+    margin-left: 40px;
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+/* .dashboard{
+    background-image: url("https://byuagency.com/wp-content/uploads/2019/10/FFT-October-.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 680px;
+} */
+
+.para{
+    padding-left: 40px;
+}
